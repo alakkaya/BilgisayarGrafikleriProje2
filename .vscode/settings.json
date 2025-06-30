@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    ".fantomasignore": "ignore",
+    "iostream": "cpp"
+  },
+  "cmake.sourceDirectory": "/Users/ali/Desktop/BilgisayarGrafikleriProje2/dependencies/include/glm",
+  "C_Cpp.errorSquiggles": "disabled"
+}
