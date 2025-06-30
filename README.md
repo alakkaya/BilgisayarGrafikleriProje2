@@ -1,4 +1,4 @@
-# 📋 Bilgisayar Grafikleri - Vize Sonrası Proje 2
+# 📋 Bilgisayar Grafikleri - Final Öncesi Proje 2
 
 Bu proje, 3D grafik programlama teknikleri kullanılarak geliştirilmiş interaktif bir oda simülasyonudur. Sahne, yaşam alanımı temsil eden bir odayı içerir ve içerisinde masaüstü bilgisayar, monitör, yatak gibi günlük yaşam nesneleri bulunur. Projenin en önemli özelliği, sahne içerisinde hareket edebilen ve kullanıcı komutlarına yanıt verebilen 3D robot karakteridir.
 
@@ -39,12 +39,11 @@ Bu proje, 3D grafik programlama teknikleri kullanılarak geliştirilmiş interak
 - **Texture Desteği**: Nesneler için görsel dokular
 
 ## 📑 Proje Raporu
-
-Proje raporuna [BG-Rapor1.pdf](./BG-Rapor1.pdf) bağlantısından ulaşabilirsiniz.
+Proje raporuna [BG-Rapor2.pdf](./BG-Rapor2.pdf) bağlantısından ulaşabilirsiniz.
 
 ## 🎬 Tanıtım Videosu
 
-Tanıtım videosuna ulaşmak için [tıklayın.](https://youtu.be/fZrfbLcKuJM?si=WhfK7fwuLF3sLP3G)
+Tanıtım videosuna ulaşmak için [tıklayın.](https://www.youtube.com/watch?v=c0w63Tqd49k)
 
 ## 🛠 Kullanılan Kütüphaneler (Gereklilikler)
 
@@ -62,8 +61,8 @@ Projenin çalışabilmesi için aşağıdaki kütüphanelerin indirilmesi zorunl
 
 1. Proje dosyalarını indirin veya klonlayın:
    ```bash
-   git clone https://github.com/alakkaya/BilgisayarGrafikleriProje1.git
-   cd BilgisayarGrafikleriProje1
+   git clone https://github.com/alakkaya/BilgisayarGrafikleriProje2.git
+   cd BilgisayarGrafikleriProje2
    ```
 2. Gerekli kütühaneleri yükleyin (GLFW, GLEW)
 3. Projeyi derlemek için herhangi hata çıkmaması için aşağıdaki kodu terminale yapıştırın.
@@ -119,21 +118,21 @@ Projenin çalışabilmesi için aşağıdaki kütüphanelerin indirilmesi zorunl
 
 <table>
         <tr>
-            <th>Ön Görünüm</th>
+            <th>Normal Kamera (Soru Soruyor)</th>
         </tr>
         <tr>
-            <td><img src="https://github.com/user-attachments/assets/25e64573-b54b-40c7-b090-8d9a3a3fc313" ></td>
+            <td><img src="https://github.com/user-attachments/assets/9b8048e6-7a8b-4f4f-bc89-2f31ebd1efa6" ></td>
         </tr>
         <tr>
-            <th>Üst Görünüm</th>
+            <th>FPS Görünüm</th>
         </tr>
         <tr>
-            <td><img src="https://github.com/user-attachments/assets/a4a89f6a-ff82-4a27-a920-c3989cd9a5df" ></td>
+            <td><img  src="https://github.com/user-attachments/assets/c9804f94-bf31-4277-9678-7bb1378d33cc"></td>
         </tr>
         <tr>
-            <th>Çapraz Görünüm</th>
+            <th>Robot Uyurken</th>
         </tr>
         <tr>
-            <td><img src="https://github.com/user-attachments/assets/95858b77-0486-480f-b6b9-bad82a717d57" ></td>
+            <td><img src="https://github.com/user-attachments/assets/5de56ae5-1d91-4b56-beb7-76372ce78918" ></td>
         </tr>
     </table>
